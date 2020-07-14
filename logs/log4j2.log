@@ -1,0 +1,4 @@
+15:54:00.021 INFO  lvliang.App 17 main - info
+15:54:00.027 ERROR lvliang.App 23 main - 除数为零 java.lang.ArithmeticException: / by zero
+	at lvliang.App.main(App.java:21) [classes/:?]
+
